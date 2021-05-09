@@ -1,2 +1,2 @@
-# cesarcrypt
+# caesarcrypt
 Repository that encrypts and decrypts messages
